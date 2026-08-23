@@ -11,7 +11,6 @@
 ## about me
 
 - 🧠 fascinated by **machine learning & deep learning**
-- 👁️ exploring **computer vision & OpenCV**
 - 📊 love finding interesting things hidden inside **data**
 - ⚙️ interested in building the systems and pipelines that make data useful
 - 🔬 usually learning something, building something, or wondering *"what if?"*
