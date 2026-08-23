@@ -18,9 +18,8 @@
 ## tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,cpp,mysql,azure,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,cpp,opencv,mysql,azure,git,linux&perline=6" />
 </p>
-
 ---
 
 ## connect with me
