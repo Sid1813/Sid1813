@@ -1,14 +1,21 @@
+<div align="center">
+
+<img src="./Dragon%20Ball%2090S%20GIF%20by%20LnR%20motion.gif" width="100%" />
+
 # hey, i'm siddharth 👋
 
 ### i like turning data into something useful.
 
 **machine learning · deep learning · data science · data engineering**
 
+</div>
+
 ---
 
 ## about me
 
 - 🧠 fascinated by **machine learning & deep learning**
+- 👁️ exploring **computer vision & OpenCV**
 - 📊 love finding interesting things hidden inside **data**
 - ⚙️ interested in building the systems and pipelines that make data useful
 - 🔬 usually learning something, building something, or wondering *"what if?"*
@@ -29,4 +36,8 @@
 
 ---
 
+<div align="center">
+
 ### build · learn · experiment · repeat
+
+</div>
