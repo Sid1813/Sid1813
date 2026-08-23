@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./goku-banner.gif" width="100%" />
+  <img src="./goku-nimbus-banner.gif" width="100%" />
 </div>
 
 # hey, i'm siddharth 👋
