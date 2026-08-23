@@ -15,19 +15,29 @@
 
 ---
 
-## tech stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,numpy,postgres,mysql,azure,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=numpy,postgres,mysql,azure,git,linux&perline=6" />
 </p>
 
 ---
 
-## reach out to me
+## 🌐 Connect with Me
 
-📧 **Email:** [siddharthr1813@gmail.com](mailto:siddharthr1813@gmail.com)
-
-💼 **LinkedIn:** [siddharth-ranganatha](https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/)
+<p align="center">
+  <a href="mailto:siddharthr1813@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Sid1813">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
