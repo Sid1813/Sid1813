@@ -18,7 +18,7 @@
 ## tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,numpy,mysql,opencv,azure,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,cpp,mysql,azure,git,linux&perline=6" />
 </p>
 
 ---
