@@ -15,27 +15,35 @@
 
 ---
 
-## 🧠 Tech Stack
+## tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=numpy,postgres,mysql,azure,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,numpy,postgres,mysql,azure,git,linux&perline=6" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## connect with me
 
 <p align="center">
   <a href="mailto:siddharthr1813@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Sid1813">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sid1813/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/siddhartranganatha">
+    <img src="https://skillicons.dev/icons?i=kaggle" width="50" />
   </a>
 </p>
 
