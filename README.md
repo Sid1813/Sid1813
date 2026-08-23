@@ -26,19 +26,19 @@
 ## connect with me
 
 <p align="center">
-  <a href="mailto:siddharthr1813@gmail.com">
+  <a href="mailto:siddharthr1813@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/">
+  <a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sid1813/">
+  <a href="https://leetcode.com/u/Sid1813/" style="text-decoration:none;">
     <img src="./leetcode-icon.png" width="50" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/siddhartranganatha">
+  <a href="https://www.kaggle.com/siddhartranganatha" style="text-decoration:none;">
     <img src="./kaggle-icon.png" width="50" height="50">
   </a>
 </p>
