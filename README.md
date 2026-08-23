@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="./Dragon%20Ball%2090S%20GIF%20by%20LnR%20motion.gif" width="100%" />
-
 # hey, i'm siddharth 👋
 
 ### i like turning data into something useful.
