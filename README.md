@@ -21,9 +21,27 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,opencv,mysql,azure,git,linux&perline=5" />
 </p>
 
+---
+
 ## connect with me
 
-<p align="center"><a href="mailto:siddharthr1813@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/Sid1813/"><img src="./leetcode-icon.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/siddhartranganatha"><img src="./kaggle-icon.png" width="50" height="50"></a></p>
+<p align="center">
+  <a href="mailto:siddharthr1813@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sid1813/">
+    <img src="./leetcode-icon.png" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/siddhartranganatha">
+    <img src="./kaggle-icon.png" width="50" height="50">
+  </a>
+</p>
 
 ---
 
