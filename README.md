@@ -26,21 +26,26 @@
 ## connect with me
 
 <p align="center">
-  <a href="mailto:siddharthr1813@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sid1813/">
-    <img src="https://cdn.simpleicons.org/leetcode" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/siddhartranganatha">
-    <img src="https://cdn.simpleicons.org/kaggle" width="50" height="50" />
-  </a>
+
+<a href="mailto:siddharthr1813@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Sid1813/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.kaggle.com/siddhartranganatha">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" />
+</a>
+
 </p>
 
 ---
