@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./goku-banner.gif" width="100%" />
+</div>
+
 # hey, i'm siddharth 👋
 
 ### i like turning data into something useful.
