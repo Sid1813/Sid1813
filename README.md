@@ -21,12 +21,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,numpy,postgres,mysql,azure,git,linux&perline=6" />
 </p>
 
-**data engineering**  
-Apache Spark · Databricks · Azure Data Factory · ETL/ELT
-
-**data science & machine learning**  
-PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
-
 ---
 
 ## reach out to me
