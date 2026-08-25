@@ -24,7 +24,13 @@
 ## tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,cpp,mysql,azure,git,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&perline=5" />
+  <br>
+  <img src="./numpy-icon-clean.png" width="50" height="50">
+  <img src="./pandas-icon-clean.png" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=cpp,mysql,azure&perline=3" />
+  <img src="./databricks-icon-clean.png" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=git,linux&perline=2" />
 </p>
 
 ---
