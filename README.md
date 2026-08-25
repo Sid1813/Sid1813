@@ -24,15 +24,27 @@
 ## tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&perline=5" />
-  <br>
-  <img src="./numpy-icon-clean.png" width="50" height="50">
-  <img src="./pandas-icon-clean.png" width="50" height="50">
-  <img src="https://skillicons.dev/icons?i=cpp,mysql,azure&perline=3" />
-  <img src="./databricks-icon-clean.png" width="50" height="50">
-  <img src="https://skillicons.dev/icons?i=git,linux&perline=2" />
-</p>
 
+<!-- top row: 7 -->
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=opencv" width="50" height="50">
+<img src="./numpy-icon-transparent.png" width="50" height="50">
+<img src="./pandas-icon-transparent.png" width="50" height="50">
+
+<br>
+
+<!-- bottom row: 6 -->
+<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=azure" width="50" height="50">
+<img src="./databricks-icon-transparent.png" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=linux" width="50" height="50">
+
+</p>
 ---
 
 ## connect with me
