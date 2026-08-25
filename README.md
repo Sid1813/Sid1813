@@ -29,8 +29,8 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50">
 <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50">
 <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50">
-<img src="./numpy-icon-transparent.png" width="50" height="50">
-<img src="./pandas-icon-transparent.png" width="50" height="50">
+<img src="./numpy-logo.png" width="50" height="50">
+<img src="./pandas-logo.png" width="50" height="50">
 
 <br>
 
@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50">
 <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50">
 <img src="https://skillicons.dev/icons?i=azure" width="50" height="50">
-<img src="./databricks-icon-transparent.png" width="50" height="50">
+<img src="./databricks-logo.png" width="50" height="50">
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50">
 <img src="https://skillicons.dev/icons?i=linux" width="50" height="50">
 
@@ -48,7 +48,23 @@
 
 ## connect with me
 
-<p align="center"><a href="mailto:siddharthr1813@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="./leetcode-icon.png"><img src="./leetcode-icon.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/siddharthranganatha"><img src="./kaggle-icon.png" width="50" height="50"></a></p>
+<p align="center">
+  <a href="mailto:siddharthr1813@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/siddharth-ranganatha-0a36932b9/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sid1813/">
+    <img src="./leetcode-icon.png" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/siddharthranganatha">
+    <img src="./kaggle-icon.png" width="50" height="50">
+  </a>
+</p>
 
 ---
 
